@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management API with MongoDB
 
 A complete REST API for employee CRUD operations using Node.js and MongoDB.
@@ -64,3 +65,6 @@ MongoDB/
 ├── package.json
 └── README.md          # This documentation
 ```
+=======
+# MongoDB
+>>>>>>> d3c5f8360b8ea854e2300902fda97a56c94932e5
